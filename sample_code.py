@@ -25,3 +25,7 @@ for i in list(range(1, 101)):
     sum100 += i
     
 print(sum100)
+
+string = "RPI is my university, but my hometown is Buffalo."
+cnt = string.count('i')
+print(cnt)
