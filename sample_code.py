@@ -6,8 +6,8 @@ Created on Wed Jun 14 13:14:43 2017
 """
 a = ['it']
 b = ['was']
-e = ['so']
-c = ['great']
+e = ['just']
+c = ['terrible']
 d = a + b + e + c
 print(d)
 
@@ -29,3 +29,6 @@ print(sum100)
 string = "RPI is my university, but my hometown is Buffalo."
 cnt = string.count('i')
 print(cnt)
+
+newcnt = s.count('t')
+print(newcnt)
