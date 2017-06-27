@@ -32,3 +32,7 @@ print(cnt)
 
 newcnt = s.count('t')
 print(newcnt)
+
+y = "I can't stand this guy talking so super loud."
+ycnt = y.count('s')
+print(ycnt)
