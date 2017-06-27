@@ -36,3 +36,7 @@ print(newcnt)
 y = "I can't stand this guy talking so super loud."
 ycnt = y.count('s')
 print(ycnt)
+
+u = "We should do a group dinner on Wednesday night gggg"
+ucnt = u.count('g')
+print(ucnt)
