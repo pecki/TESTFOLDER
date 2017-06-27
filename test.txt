@@ -3,4 +3,5 @@ This is a test text file in the TESTFOLDER.  I am going to try and add this file
 Let's add this to the TESTFOLDER repository, both locally on this computer and remotely on Github.
 Ready??
 
-GO
+
+Let's add this file to the branch that we're modifying.  Now I've changed two files in the branch and I want to stage, commit, and merge with the master branch.

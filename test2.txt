@@ -1,1 +1,3 @@
 This is a second test file that I'm going to stage, commit, and push to the remote online Github repository after I commit it to the local repository on my laptop.
+
+Let's see if branch-6-27 works.  I'm using Git GUI in order to create, change, and merge this branch.  This is the file I'm going to change and stage so it can be committed to this branch in the repository.  After I am done with this branch, I will delete it so that only the master branch remains.  Everything will be merged and part of the master branch.
