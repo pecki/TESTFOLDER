@@ -4,3 +4,6 @@ Let's add this to the TESTFOLDER repository, both locally on this computer and r
 Ready??
 
 GO
+
+Not sure where this line will go when I want to merge the master
+branch with the branch-6-27 branch.  We'll see!
