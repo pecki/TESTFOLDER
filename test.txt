@@ -19,3 +19,6 @@ Erik
 Greg
 Bella
 Caledonia
+
+Einstein is best known by the general public for his mass-energy equivalence formula.
+He received the 1921 Nobel Prize in Physics "for his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect", a pivotal step in the evolution of quantum theory.
