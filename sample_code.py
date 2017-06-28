@@ -7,10 +7,9 @@ Created on Wed Jun 14 13:14:43 2017
 a = ['it']
 b = ['was']
 e = ['just']
-c = ['terrible']
+c = ['awful']
 d = a + b + e + c
 print(d)
-
 
 s = ''
 for x in d:
@@ -18,10 +17,9 @@ for x in d:
     
 print(s)
 
-# Find the sum of the integers from 1-100:
-    
+# Find the sum of the integers from 1-249:
 sum100 = 0
-for i in list(range(1, 101)):
+for i in list(range(1, 250)):
     sum100 += i
     
 print(sum100)
