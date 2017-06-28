@@ -10,7 +10,6 @@ Joey Souto
 Bella Peck
 Greg Stewart
 Caledonia Wilson
-=======
 sup
 
 George
@@ -20,4 +19,3 @@ Erik
 Greg
 Bella
 Caledonia
->>>>>>> 56e3bb9ad94c42855f741ba8aa5f4fb00ca9d4d7
