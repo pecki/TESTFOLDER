@@ -1,6 +1,15 @@
 This is a test text file in the TESTFOLDER.  I am going to try and add this file.
+Gah
+I'm not sure what's gonna happen if I change the master and the branch differently.
 
-Let's add this to the TESTFOLDER repository, both locally on this computer and remotely on Github.
-Ready??
+GRRRR
 
+sup
 
+George
+Joey
+Mallory
+Erik
+Greg
+Bella
+Caledonia
