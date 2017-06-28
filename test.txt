@@ -1,7 +1,7 @@
 This is a test text file in the TESTFOLDER.  I am going to try and add this file.
-
-Let's add this to the TESTFOLDER repository, both locally on this computer and remotely on Github.
-Ready??
+Gah
+I'm not sure what's gonna happen if I change the master and the branch differently.
+GRRRR
 
 George Dowhan
 Mallory Gaspard
@@ -10,3 +10,14 @@ Joey Souto
 Bella Peck
 Greg Stewart
 Caledonia Wilson
+=======
+sup
+
+George
+Joey
+Mallory
+Erik
+Greg
+Bella
+Caledonia
+>>>>>>> 56e3bb9ad94c42855f741ba8aa5f4fb00ca9d4d7
