@@ -3,4 +3,10 @@ This is a test text file in the TESTFOLDER.  I am going to try and add this file
 Let's add this to the TESTFOLDER repository, both locally on this computer and remotely on Github.
 Ready??
 
-
+George Dowhan
+Mallory Gaspard
+Erik Bergland
+Joey Souto
+Bella Peck
+Greg Stewart
+Caledonia Wilson
