@@ -11,11 +11,10 @@ c = ['awful']
 d = a + b + e + c
 print(d)
 
-s = ''
-for x in d:
-    s += x
-    
-print(s)
+bella = "Bella"
+erik = "Erik"
+greg = "Greg"
+mallory = "Mallory"
 
 # Find the sum of the integers from 1-249:
 sum_100 = 0
