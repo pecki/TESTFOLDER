@@ -27,9 +27,6 @@ string = "RPI is my college, but my hometown is Lancaster."
 cnt = string.count('i')
 print(cnt)
 
-newcnt = s.count('t')
-print(newcnt)
-
 print("Hi, How Are You?")
 
 u = "We should do a group dinner on Wednesday night gggg"
