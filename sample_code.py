@@ -18,20 +18,20 @@ for x in d:
 print(s)
 
 # Find the sum of the integers from 1-249:
-sum100 = 0
+sum_100 = 0
 for i in list(range(1, 250)):
-    sum100 += i
+    sum_100 += i
     
-print(sum100)
+print(sum_100)
 
-string = "RPI is my university, but my hometown is Buffalo."
+string = "RPI is my college, but my hometown is Lancaster."
 cnt = string.count('i')
 print(cnt)
 
 newcnt = s.count('t')
 print(newcnt)
 
-print("SUP")
+print("Hi, How Are You?")
 
 u = "We should do a group dinner on Wednesday night gggg"
 ucnt = u.count('g')
