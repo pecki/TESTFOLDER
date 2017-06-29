@@ -11,11 +11,10 @@ c = ['awful']
 d = a + b + e + c
 print(d)
 
-s = ''
-for x in d:
-    s += x
-    
-print(s)
+bella = "Bella"
+erik = "Erik"
+greg = "Greg"
+mallory = "Mallory"
 
 # Find the sum of the integers from 1-249:
 sum_100 = 0
@@ -27,9 +26,6 @@ print(sum_100)
 string = "RPI is my college, but my hometown is Lancaster."
 cnt = string.count('i')
 print(cnt)
-
-newcnt = s.count('t')
-print(newcnt)
 
 print("Hi, How Are You?")
 
